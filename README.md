@@ -2,6 +2,10 @@
 
 Aplicación académica para una empresa ficticia de consultoría y desarrollo de software. Modela la gestión de proyectos, historias de usuario, contratos, seguimiento, auditorías y patrocinios, con operaciones diferenciadas por rol.
 
+![Java](https://img.shields.io/badge/Java-Backend-ED8B00?logo=openjdk&logoColor=white)
+![Acme Framework](https://img.shields.io/badge/Acme%20Framework-24.4.0-4A6FA5)
+![Maven](https://img.shields.io/badge/Maven-Build-C71A36?logo=apachemaven&logoColor=white)
+
 Desarrollada en equipo sobre Acme Framework, en el contexto de Diseño y Pruebas 2 de la Universidad de Sevilla.
 
 ## Explorar el proyecto
