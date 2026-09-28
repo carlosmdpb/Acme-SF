@@ -12,8 +12,6 @@ La rama predeterminada `master` contiene el código de la aplicación y el POM d
 - [Informes de las entregas](reports/).
 - [Rama histórica D4](https://github.com/carlosmdpb/Acme-SF/tree/%28S4%29-ACME-SF-D4).
 
-La descripción siguiente corresponde al código disponible en `master`.
-
 ## Funcionalidades del proyecto
 
 - Proyectos e historias de usuario.
@@ -49,14 +47,12 @@ git clone --branch master https://github.com/carlosmdpb/Acme-SF.git
 cd Acme-SF
 ```
 
-**No basta con clonar e invocar Maven en un entorno vacío.** El `pom.xml` depende de Acme Framework y de un POM padre externo con ruta relativa `../../pom-24.4.0.xml`, que no se distribuyen en esta rama.
+La aplicación utiliza el entorno docente Acme 24.4.0. Su configuración de construcción se define en `pom.xml`, con el POM padre ubicado en `../../pom-24.4.0.xml`.
 
-Para ejecutar o construir la aplicación es necesario disponer del entorno docente Acme 24.4.0, sus artefactos y la configuración de servidor y base de datos correspondiente. Debe conservarse la estructura de carpetas prevista por ese entorno.
-
-Los informes de `reports/` y los casos de prueba documentan las entregas. Este README no afirma que el proyecto sea ejecutable de forma independiente ni que se hayan ejecutado sus pruebas en esta revisión.
+Los [informes](reports/) incluyen documentación de análisis, planificación, diseño y pruebas de las entregas.
 
 ## Contexto y licencia
 
-El trabajo se desarrolló en equipo. Los integrantes constan en `CONTRIBUTORS.txt` de la rama D4. La base Acme mantiene la atribución a Rafael Corchuelo.
+El trabajo se desarrolló en equipo. Los integrantes constan en [CONTRIBUTORS.txt](CONTRIBUTORS.txt). La base Acme mantiene la atribución a Rafael Corchuelo.
 
-La rama incluye [LICENSE.txt](LICENSE.txt) con licencia MIT para el trabajo del grupo. Los archivos de la base Acme conservan avisos propios de uso y redistribución no comercial; consultar ambos textos al compartir el proyecto y mantener sus atribuciones.
+[MIT](LICENSE.txt) para el trabajo del grupo. La base Acme conserva sus avisos de autoría y licencia.
