@@ -1,0 +1,15 @@
+key,enabled,identity,password,username
+user-account-consumer-01,true,"UserIdentity{name: 'Peter', surname: 'Consumer', email: 'peter@acme.com'}",consumer1,consumer1
+user-account-consumer-02,true,"UserIdentity{name: 'Mary', surname: '貸んい建濯よ芝弾テソ Λορεμ ιπσθμ', email: 'mary@acme.com'}",consumer2,consumer2
+user-account-provider-01,true,"UserIdentity{name: 'Laurel', surname: 'Provider', email: 'laurel@acme.com'}",provider1,provider1
+user-account-provider-02,true,"UserIdentity{name: 'Martina', surname: 'коза თხა', email: 'martina@acme.com'}",provider2,provider2
+user-account-manager-01,true,"UserIdentity{name: 'Álvaro', surname: 'Ruiz Guti', email: 'alvruigut@acme.com'}",manager1,manager1
+user-account-manager-02,true,"UserIdentity{name: 'Lidia', surname: 'Ruiz Jiménez', email: 'lidjimsor@acme.com'}",manager2,manager2
+user-account-developer-01,true,"UserIdentity{name: 'Developer1', surname: 'Developer1', email: 'dev1@acme.com'}",developer1,developer1
+user-account-developer-02,true,"UserIdentity{name: 'Developer2', surname: 'Developer2', email: 'dev2@acme.com'}",developer2,developer2
+user-account-auditor-01,true,"UserIdentity{name: 'Sutiti', surname: 'jeje', email: 'primor@acme.com'}",auditor1,auditor1
+user-account-auditor-02,true,"UserIdentity{name: 'Alvaroelnegro', surname: 'jaja', email: 'mediamark@acme.com'}",auditor2,auditor2
+user-account-client-01,true,"UserIdentity{name: 'Charly', surname: 'Gonzalez', email: 'madridtv@acme.com'}",client1,client1
+user-account-client-02,true,"UserIdentity{name: 'Λορεμ', surname: '濯よ芝弾テソ', email: 'zara@acme.com'}",client2,client2
+user-account-sponsor-01,true,"UserIdentity{name: 'Yesica', surname: 'Garate Fuentes', email: 'yesgarfue@acme.com'}",sponsor1,sponsor1
+user-account-sponsor-02,true,"UserIdentity{name: 'Leydi', surname: 'GF', email: 'leydi.yesica@acme.com'}",sponsor2,sponsor2

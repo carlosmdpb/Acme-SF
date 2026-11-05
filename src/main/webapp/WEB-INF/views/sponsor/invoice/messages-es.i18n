@@ -1,0 +1,25 @@
+sponsor.invoice.list.title = Facturas
+sponsor.invoice.form.title = Factura
+
+sponsor.invoice.label.code = Código
+sponsor.invoice.label.registrationTime = Fecha de Registro
+sponsor.invoice.label.dueDate = Fecha de Vencimiento
+sponsor.invoice.label.quantity = Cantidad
+sponsor.invoice.label.tax = Impuesto (%)
+sponsor.invoice.label.link = URL
+sponsor.invoice.label.calculatedTotal = Monto total 
+sponsor.invoice.label.isPublished = Publicado
+sponsor.invoice.label.sponsorshipCode = Código de patrocinio
+sponsor.invoice.label.totalAmount = Monto total de la Factura (impuestos incluidos)
+
+sponsor.invoice.button.create = Crear
+sponsor.invoice.button.update = Modificar
+sponsor.invoice.button.delete = Eliminar
+sponsor.invoice.button.publish = Publicar
+
+sponsor.invoice.label.info.sponsorship = Informacion del patrocinio
+sponsor.invoice.label.info.sponsorship.amount = Monto
+sponsor.invoice.label.info.sponsorship.currency = Divisa
+sponsor.invoice.label.info.invoice = Informacion de facturas
+sponsor.invoice.label.info.accumulatedAmountInvoices = Cantidad acumulada (en la divisa del patrocinio)
+sponsor.invoice.label.recomendation = * Cantidad neta recomendada * (impuesto inclusive, en la divisa del patrocinio)
